@@ -1,0 +1,53 @@
+[
+        {
+            "recipient":"admin",
+            "recipient_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "sender":"ashok",
+            "sender_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "title":"This is a sample message to ashok.",
+            "description":"This is a sample description to the message which has the above title",
+            "created_at":"2017-01-19 09:45:00",
+            "important":"0"
+        },
+        {
+            "recipient":"Ashwini",
+            "recipient_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "sender":"admin",
+            "sender_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "title":"This is a sample message to ashwini from admin.",
+            "description":"This is a sample description to the message which has the above title",
+            "created_at":"2016-12-29 07:45:00",
+            "important":"0"
+        }, 
+        {
+            "recipient":"ashok",
+            "recipient_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "sender":"ashwini",
+            "sender_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "title":"This is a sample message to ashok from ashwini.",
+            "description":"This is a sample description to the message which has the above title",
+            "created_at":"2016-01-19 08:45:00",
+            "important":"0"
+        },
+        {
+            "recipient":"venkat",
+            "recipient_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "sender":"ashok",
+            "sender_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "title":"This is a sample message to venkat from ashok.",
+            "description":"This is a sample description to the message which has the above title",
+            "created_at":"2017-01-05 01:15:00",
+            "important":"0"
+        },
+    
+        {
+            "recipient":"admin",
+            "recipient_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "sender":"venkat",
+            "sender_img":"http://simpleicon.com/wp-content/uploads/user1.png",
+            "title":"This is a sample message to admin from venkat.",
+            "description":"This is a sample description to the message which has the above title",
+            "created_at":"2016-11-18 10:45:00",
+            "important":"0"
+        }
+]

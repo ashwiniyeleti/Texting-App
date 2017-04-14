@@ -1,0 +1,45 @@
+[
+    {
+	"username": "admin",
+    "password": "admin",
+	"firstname": "Archana",
+	"lastname": "Nalla",
+	"email": "archana_0@marlabs.com",
+    "phone": "34324324323",
+	"location": "Piscataway"
+	
+},
+ {
+	"username": "ashwini",
+    "password": "ashwini",
+	"firstname": "Ashwini",
+	"lastname": "Yeleti",
+	"email": "ashwini@marlabs.com",
+    "phone": "2348702378",
+	"location": "Marryland"
+	
+	
+},
+ {
+	"username": "venkat",
+    "password": "venkat",
+	"firstname": "Venkat",
+	"lastname": "Nalla",
+	"email": "venkat@marlabs.com",
+    "phone": "5857643992",
+	"location": "New York"
+	
+	
+},
+ {
+	"username": "ashok",
+    "password": "ashok",
+	"firstname": "Ashok",
+	"lastname": "Yeleti",
+	"email": "ashok@marlabs.com",
+    "phone": "9082773392",
+	"location": "Scramento"
+	
+	
+}
+]
